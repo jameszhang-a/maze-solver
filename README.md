@@ -19,19 +19,23 @@ This project compares multiple uninformed and informed search algorithms by solv
 ### BFS
 
 \# of Expanded Verticies = 2290
+
 ![alt text](./images/BFS.png "Title")
 
 ### DFS
 
 \# of Expanded Verticies = 298
+
 ![DFS](./images/DFS.png "DFS")
 
 ### A* with Manhattan Distance
 
 \# of Expanded Verticies = 1687
+
 ![DFS](./images/manhattan.png "DFS")
 
 ### A* with Eulidean Distance
 
 \# of Expanded Verticies = 1879
+
 ![DFS](./images/Euclidean.png "DFS")
