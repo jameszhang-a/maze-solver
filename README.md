@@ -16,11 +16,6 @@ This project compares multiple uninformed and informed search algorithms by solv
 - A* with Eulidean Distance
 - BFS
 
-### BFS
-
-\# of Expanded Verticies = 2290
-
-![alt text](./images/BFS.png "Title")
 
 ### DFS
 
@@ -39,3 +34,9 @@ This project compares multiple uninformed and informed search algorithms by solv
 \# of Expanded Verticies = 1879
 
 ![DFS](./images/Euclidean.png "DFS")
+
+### BFS
+
+\# of Expanded Verticies = 2290
+
+![alt text](./images/BFS.png "Title")
